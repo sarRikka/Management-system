@@ -2,6 +2,7 @@ package com.bjpowernode.pojo;
 
 
 public class Admin {
+    //id
     private Integer aId;
 
     private String aName;
